@@ -33,7 +33,7 @@ if (result === Number(answer)) {
     alert('딩동댕')
     condition = false;
 } else {
-    alert('')
+    alert('땡')
 }
     }
 }
